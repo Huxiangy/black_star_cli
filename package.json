@@ -1,0 +1,21 @@
+{
+  "name": "black_start_cli",
+  "version": "0.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mini-app",
+    "cli"
+  ],
+  "engines": {
+    "node": ">=8.9"
+  },
+  "author": "chunshan&fuhuo",
+  "license": "ISC",
+  "dependencies": {
+    
+  }
+}
